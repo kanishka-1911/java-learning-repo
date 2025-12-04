@@ -1,6 +1,6 @@
-//polymorphism means having many forms;allowing the same method to act differently depending on the object it's called on.
-//two main types:- Method Overloading(compile-time): Same method name with different parameters in the same class
-//Method overriding:subclass redefine a method from its superclass
+/***polymorphism means having many forms;allowing the same method to act differently depending on the object it's called on.
+two main types:- Method Overloading(compile-time): Same method name with different parameters in the same class
+Method overriding:subclass redefine a method from its superclass***/
 
 class Animal{
     public void makeSound(){

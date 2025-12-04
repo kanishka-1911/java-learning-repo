@@ -1,10 +1,10 @@
 import java.util.Scanner;
-//abstraction is hiding certain details and showing only necessary info to the user(You don't need to know how this works, just use it.)
-//ex:You see a coffee machine with buttons:Espresso,Cappuccino,Latte.You press a button, and coffee comes out.You don’t care how the machine heats water, grinds beans, or mixes milk.
-//achieved thru abstract classes or interfaces
-//abstract keyword is non-access modifier
-//abstract classes are restricted class that cannot be used to create obj(should be inherited)
-//abstract methods- used only in abstract class which doesn't have a body(body is provided by subclasses)
+/***abstraction is hiding certain details and showing only necessary info to the user(You don't need to know how this works, just use it.)
+ex:You see a coffee machine with buttons:Espresso,Cappuccino,Latte.You press a button, and coffee comes out.You don’t care how the machine heats water, grinds beans, or mixes milk.
+achieved thru abstract classes or interfaces
+abstract keyword is non-access modifier
+abstract classes are restricted class that cannot be used to create obj(should be inherited)
+abstract methods- used only in abstract class which doesn't have a body(body is provided by subclasses)***/
 abstract class Animal{
     //abstract method
     public abstract void animalSound();
