@@ -38,6 +38,14 @@ Contains Object-Oriented Programming concepts:
 Each file contains several example classes demonstrating the concept.
 
 ---
+### 🔹 ExceptionHandling
+Contains fundamentals of Exception Handling:
+
+  - Try-catch
+  - Throw & Throws
+  - Creating Custom Exception 
+
+---
 
 ## 🎯 Purpose
 
